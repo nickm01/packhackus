@@ -6,7 +6,8 @@
          {
             "appID":"2MFS2Q8WAW.com.relayrides.ios.RelayRides",
             "paths":[
-               "/*/car-rental/*/*/*/*/*",
+               "/*/car-rental/*/*/*/*",
+               "/*/car-rentalx/*",
                "/*/suv-rental/*",
                "/*/star1/*",
                "/*/star2/*/*",
